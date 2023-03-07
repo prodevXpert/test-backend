@@ -1,2 +1,5 @@
 password for database : devxpert
 port: 5432
+
+Resource link:
+https://www.bezkoder.com/node-js-jwt-authentication-postgresql/#Source_Code
